@@ -4,7 +4,7 @@ Goal: Create your first NodeJS server
 
 1. Create a `dev` branch after accepting the assignment
 2. Clone your repository and switch to the `dev` branch
-3. Run `npm init -y` to generate your `package.json` file
+3. Run `npm init -y` to generate your `package.json` file which you need if you will use external third-party packages
 4. Create your server file. You can call it `server.js` or `index.js`
 5. Create a simple server with four routes and their corresponding response:
 
