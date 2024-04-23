@@ -6,7 +6,7 @@ Goal: Create your first NodeJS server
 2. Clone your repository and switch to the `dev` branch
 3. Run `npm init -y` to generate your `package.json` file
 4. Create your server file. You can call it `server.js` or `index.js`
-5. Create a simple server with four routes and the corresponding response:
+5. Create a simple server with four routes and their corresponding response:
 
    - Home `/ 'text/html' 200`: Should return `<h1>Home</h1>`
    - About `/about 'text/html' 200`: Should return `<h1>About</h1>`
